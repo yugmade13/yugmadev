@@ -17,7 +17,7 @@
         "react"
     ],
     "rules": {
-        "linebreak-style": ["error", "windows"],
+        "linebreak-style": "off",
         "import/no-extraneous-dependencies": "off",
         "max-len": "off",
         "no-alert": "off",
